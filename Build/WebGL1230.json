@@ -1,0 +1,16 @@
+{
+"companyName": "LOOOP Studios",
+"productName": "能源教育Game Go",
+"productVersion": "0.10",
+"dataUrl": "WebGL1230.data.unityweb",
+"wasmCodeUrl": "WebGL1230.wasm.code.unityweb",
+"wasmFrameworkUrl": "WebGL1230.wasm.framework.unityweb",
+"graphicsAPI": ["WebGL 2.0","WebGL 1.0"],
+"webglContextAttributes": {"preserveDrawingBuffer": false},
+"splashScreenStyle": "Light",
+"backgroundColor": "#FFFFFF",
+"cacheControl": {"default": "must-revalidate"},
+"developmentBuild": false,
+"multithreading": false,
+"unityVersion": "2019.4.3f1"
+}
